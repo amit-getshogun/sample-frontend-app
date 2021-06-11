@@ -1,7 +1,7 @@
 import React from 'react';
 
 const FirstComponent = () => {
-  return <p>My Component</p>;
+  return <p>First Component</p>;
 };
 
 export default FirstComponent;
