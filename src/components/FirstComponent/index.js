@@ -1,9 +1,9 @@
 import React from 'react';
 
-import style from './style.module.css';
+import './styles.css';
 
 const FirstComponent = () => {
-  return <p className={style.app}>First Component</p>;
+  return <p className='app'>First Component</p>;
 };
 
 export default FirstComponent;
